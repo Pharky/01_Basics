@@ -1,0 +1,48 @@
+.container{
+    background-color: turquoise;
+    height:200px;
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+
+
+.box{
+    background-color: black;
+    height:30px;
+    width:30px;
+    justify-content:center;
+   
+}
+
+.box2{
+    background-color: black;
+    height:30px;
+    width:30px;
+    justify-content:center;
+
+}
+
+.box3{
+    background-color: black;
+    height:30px;
+    width:30px;
+    
+}
+
+.box4{
+    background-color: black;
+    height:30px;
+    width:30px;
+    
+}
+
+.box5{
+    background-color: black;
+    height:30px;
+    width:30px;
+   
+}
+
+
