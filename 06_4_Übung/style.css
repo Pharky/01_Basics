@@ -1,48 +1,43 @@
-.container{
+.header{
     background-color: turquoise;
     height:200px;
     display:flex;
+    margin:0;
+    padding:10px;
     justify-content:space-between;
-    
+    align-items:center;
 }
 
-
+.container{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
 
 .box{
     background-color: black;
     height:30px;
     width:30px;
+}
+
+.sidebar{
+    background-color:yellowgreen;
+    height:300px;
+    width:300px;
+    display:flex;
     justify-content:center;
-   
+    align-items:center;
 }
 
-.box2{
-    background-color: black;
-    height:30px;
-    width:30px;
-    justify-content:center;
-
-}
-
-.box3{
-    background-color: black;
-    height:30px;
-    width:30px;
-    
-}
-
-.box4{
-    background-color: black;
-    height:30px;
-    width:30px;
-    
-}
-
-.box5{
-    background-color: black;
-    height:30px;
-    width:30px;
-   
+.impressum{
+    background-color:purple;
+    position:absolute;
+    height:69px;
+    width:69px;
+    right:0;
+    bottom:0;
 }
 
 
+
+     
