@@ -1,4 +1,4 @@
-let randomNumber = Math.random() * 40;
+let randomNumber = Math.random() * 10 + 10;
 let random = Math.floor(randomNumber);
 
 console.log(randomNumber);
